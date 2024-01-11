@@ -34,26 +34,30 @@ Screenshot
 - HTML
 - CSS
 - JavaScript Feather Icons
-  <hr>
+    <hr>
 
   **Getting Started**
-    <hr>
-
-  1. Clone the repository
-  2. Open index.html in your browser
-  3. Customize links, colors, and styles as needed
-  4. Add your profile image and info5. Deploy to GitHub Pages or host elsewhere
   <hr>
 
-  **Customization**
-  <hr>
+1. Clone the repository
 
-  The CSS file includes customizable variables for colors, fonts, and more. Links and social icons can be easily added or removed. Contact info is displayed using standard HTML elements for flexibility.
+2. Open index.html in your browser
 
-  **Future Improvements**
-    <hr>
+3. Customize links, colors, and styles as needed
 
-  - Add dark mode support
-  - Allow importing links from external data source
-  - Add animations and transitions
-  - Package as a reusable component
+4. Add your profile image and info5. Deploy to GitHub Pages or host elsewhere
+   <hr>
+
+   **Customization**
+   <hr>
+
+The CSS file includes customizable variables for colors, fonts, and more. Links and social icons can be easily added or removed. Contact info is displayed using standard HTML elements for flexibility.
+
+**Future Improvements**
+
+<hr>
+
+- Add dark mode support
+- Allow importing links from external data source
+- Add animations and transitions
+- Package as a reusable component

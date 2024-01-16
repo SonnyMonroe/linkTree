@@ -31,14 +31,15 @@
 3. Customize links, colors, and styles as needed.
 
 4. Add your profile image and info.
+5. Swap out the links in `index.html` with the links to your socials.
 
-5. Deploy to GitHub Pages or host elsewhere.
+6. Deploy to GitHub Pages or host elsewhere.
 
 <hr>
 
 ## :building_construction: Future Improvements
 
-- Add dark mode support
-- Allow importing links from external data source
-- Add animations and transitions
-- Package as a reusable component
+- Add dark mode support.
+- Allow importing links from external data source.
+- Add animations and transitions.
+- Package as a reusable component.
